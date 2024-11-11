@@ -16,7 +16,7 @@ public class Solution2Test {
     public void test2() {
         String s = "a";
         String result = solution2.removeDuplicateLetters(s);
-        assertEquals("ab", result);
+        assertEquals("a", result);
     }
 
     @Test
